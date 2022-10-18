@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Paris",
+        "image": "https://media.cntraveler.com/photos/5d8cf7d5db6acf000833e6cc/master/pass/Eiffel-Tower_GettyImages-1060266626.jpg",
+        "price": 450,
+        "views": 5
+    },
+    {
+        "name": "New York",
+        "image": "https://i.natgeofe.com/k/5b396b5e-59e7-43a6-9448-708125549aa1/new-york-statue-of-liberty_16x9.jpg",
+        "price": 230,
+        "views": 2
+    },
+    {
+        "name": "Cox's Bazar",
+        "image": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/blogK3CPQ7dUHAyFHTACWaVMcLF21_F0Abvx.jpg",
+        "price": 150,
+        "views": 5
+    },
+    {
+        "name": "London",
+        "image": "https://a.cdn-hotels.com/gdcs/production27/d274/43014cca-c88c-4061-ace8-58edc24531ee.jpg",
+        "price": 300,
+        "views": 3
+    },
+    {
+        "name": "Dubai",
+        "image": "https://cdn.britannica.com/69/156369-050-75E7FD08/skyline-Dubai-United-Arab-Emirates.jpg",
+        "price": 220,
+        "views": 9
+    },
+    {
+        "name": "Taj Mahal",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Taj_Mahal_2%2C_Agra%2C_India.jpg",
+        "price": 100,
+        "views": 7
+    },
+    {
+        "name": "Sydney",
+        "image": "https://cms.finnair.com/resource/blob/672748/3523a759b61b788b834fe56aa57fa255/sydney-main-data.jpg",
+        "price": 500,
+        "views": 6
+    },
+    {
+        "name": "Moscow",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+        "price": 400,
+        "views": 8
+    },
+    {
+        "name": "Lisbon",
+        "image": "https://media.timeout.com/images/105802654/image.jpg",
+        "price": 730,
+        "views": 4
+    },
+    {
+        "name": "Egypt",
+        "image": "https://www.visafirst.com/blog/wp-content/uploads/2021/07/pyramids-of-Giza-in-Egypt.jpg",
+        "price": 530,
+        "views": 7
+    }
+]
