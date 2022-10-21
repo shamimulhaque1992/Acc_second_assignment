@@ -109,7 +109,7 @@ exports.getCheapest = async (req, res) => {
 
         res.status(200).json({
             status: "Success",
-            message: "Found Trending",
+            message: "Found Cheapest",
             data: result
         })
 
