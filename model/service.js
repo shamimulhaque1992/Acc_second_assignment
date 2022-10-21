@@ -17,13 +17,14 @@ exports.makeTour = async (data) => {
     return tour;
 }
 
-exports.findTourId = async (id) => {
-    const tour = await Tour.findTourId(id);
+exports.findTourId = async (_id) => {
+    console.log(id)
+    const tour = await Tour.find(id);
     return tour;
 }
 
 exports.updateTourId = async (id, data) => {
-    const tour = await Tour.findTourId(id);
+    const tour = await Tour.find(id);
     const result = await tour.set(data).save();
     return result;
 }
